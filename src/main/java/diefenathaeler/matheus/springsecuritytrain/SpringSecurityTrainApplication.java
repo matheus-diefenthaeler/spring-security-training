@@ -3,7 +3,7 @@ package diefenathaeler.matheus.springsecuritytrain;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication()
 public class SpringSecurityTrainApplication {
 
 	public static void main(String[] args) {
