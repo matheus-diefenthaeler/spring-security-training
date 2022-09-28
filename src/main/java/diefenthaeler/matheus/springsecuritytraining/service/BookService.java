@@ -1,10 +1,10 @@
-package diefenathaeler.matheus.springsecuritytrain.service;
+package diefenthaeler.matheus.springsecuritytraining.service;
 
-import diefenathaeler.matheus.springsecuritytrain.dto.request.BookRequest;
-import diefenathaeler.matheus.springsecuritytrain.dto.response.BookResponse;
-import diefenathaeler.matheus.springsecuritytrain.mapper.BookMapper;
-import diefenathaeler.matheus.springsecuritytrain.model.Book;
-import diefenathaeler.matheus.springsecuritytrain.repository.BookRepository;
+import diefenthaeler.matheus.springsecuritytraining.dto.request.BookRequest;
+import diefenthaeler.matheus.springsecuritytraining.dto.response.BookResponse;
+import diefenthaeler.matheus.springsecuritytraining.mapper.BookMapper;
+import diefenthaeler.matheus.springsecuritytraining.model.Book;
+import diefenthaeler.matheus.springsecuritytraining.repository.BookRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,21 +1,21 @@
-package diefenathaeler.matheus.springsecuritytrain.model;
+package diefenthaeler.matheus.springsecuritytraining.model;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+@Data
 @Entity
-@Getter
-@Setter
-public class Profile {
+@NoArgsConstructor
+public class Book {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String permission;
+    private String name;
+    private String publisher;
 
 }

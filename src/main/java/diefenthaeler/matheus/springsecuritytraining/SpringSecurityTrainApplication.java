@@ -1,4 +1,4 @@
-package diefenathaeler.matheus.springsecuritytrain;
+package diefenthaeler.matheus.springsecuritytraining;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

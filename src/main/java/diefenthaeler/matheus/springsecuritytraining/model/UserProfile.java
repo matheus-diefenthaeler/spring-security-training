@@ -1,4 +1,4 @@
-package diefenathaeler.matheus.springsecuritytrain.model;
+package diefenthaeler.matheus.springsecuritytraining.model;
 
 import lombok.Getter;
 import lombok.Setter;

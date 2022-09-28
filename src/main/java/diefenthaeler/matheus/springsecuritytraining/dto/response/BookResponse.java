@@ -1,4 +1,4 @@
-package diefenathaeler.matheus.springsecuritytrain.dto.response;
+package diefenthaeler.matheus.springsecuritytraining.dto.response;
 
 import lombok.Getter;
 import lombok.Setter;

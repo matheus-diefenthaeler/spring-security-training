@@ -1,8 +1,8 @@
-package diefenathaeler.matheus.springsecuritytrain.controller;
+package diefenthaeler.matheus.springsecuritytraining.controller;
 
-import diefenathaeler.matheus.springsecuritytrain.dto.request.BookRequest;
-import diefenathaeler.matheus.springsecuritytrain.dto.response.BookResponse;
-import diefenathaeler.matheus.springsecuritytrain.service.BookService;
+import diefenthaeler.matheus.springsecuritytraining.dto.request.BookRequest;
+import diefenthaeler.matheus.springsecuritytraining.dto.response.BookResponse;
+import diefenthaeler.matheus.springsecuritytraining.service.BookService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

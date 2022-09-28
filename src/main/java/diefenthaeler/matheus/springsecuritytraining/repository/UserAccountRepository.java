@@ -1,6 +1,6 @@
-package diefenathaeler.matheus.springsecuritytrain.repository;
+package diefenthaeler.matheus.springsecuritytraining.repository;
 
-import diefenathaeler.matheus.springsecuritytrain.model.UserAccount;
+import diefenthaeler.matheus.springsecuritytraining.model.UserAccount;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

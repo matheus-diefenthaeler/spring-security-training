@@ -1,8 +1,7 @@
-package diefenathaeler.matheus.springsecuritytrain.service;
+package diefenthaeler.matheus.springsecuritytraining.service;
 
-import diefenathaeler.matheus.springsecuritytrain.model.UserAccount;
-import diefenathaeler.matheus.springsecuritytrain.repository.UserAccountRepository;
-import lombok.AllArgsConstructor;
+import diefenthaeler.matheus.springsecuritytraining.model.UserAccount;
+import diefenthaeler.matheus.springsecuritytraining.repository.UserAccountRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
